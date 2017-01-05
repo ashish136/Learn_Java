@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000" >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="@string/topic"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF" />
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="55dp"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="36dp"
+        android:background="#FF0000"
+        android:text="@string/basics"
+        android:textColor="#FFFFFF" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/button1"
+        android:background="#9932CC"
+        android:text="@string/arrays"
+        android:textColor="#FFFFFF" />
+    
+     <Button
+        android:id="@+id/button3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBaseline="@+id/button4"
+        android:layout_alignBottom="@+id/button4"
+        android:layout_alignLeft="@+id/button1"
+        android:background="#0000CD"
+        android:text="@string/matrix"
+        android:textColor="#FFFFFF" />
+
+    
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_below="@+id/button2"
+        android:layout_marginTop="10dp"
+        android:background="#7CFC00"
+        android:text="@string/all"
+        android:textColor="#FFFFFF" />
+
+    
+    
+
+</RelativeLayout>

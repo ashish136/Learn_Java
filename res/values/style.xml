@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="code" parent="@android:style/TextAppearance">
+        <item name="android:textSize">15sp</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:background">#FFFFFF</item> 
+     </style>
+     <style name="code.red">
+        <item name="android:background">#FFFFF0</item>
+     </style>
+</resources>

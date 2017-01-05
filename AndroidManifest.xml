@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="comexample.actionbarnew"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <activity android:name="notprogram.Start_activity"/>
+        <activity android:name="notprogram.Topic"> 
+           <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+           </intent-filter>
+        </activity>
+        <activity android:name="notprogram.Basics"/>
+        <activity android:name="notprogram.array"/>
+        <activity android:name="notprogram.Matrix"/>
+        <activity android:name="notprogram.Setting"/>
+        <activity android:name="notprogram.CustomListAdapter"/>
+        <activity android:name="comexample.actionbarnew.MainActivity"/>
+        <activity android:name=".Largest"/>
+        <activity android:name=".Hello"/>
+        <activity android:name=".Nestedif"/>
+        <activity android:name=".Switch_"/>
+        <activity android:name=".Bubblesort"/>
+        <activity android:name=".Ladder_"/>
+        <activity android:name=".For"/>
+        <activity android:name=".Binary_"/>
+        <activity android:name=".While_"/>
+        <activity android:name=".Dowhile_"/>
+        <activity android:name=".Converter_"/>
+        <activity android:name=".Selection"/>   
+        <activity android:name=".Arrsum"/>
+        <activity android:name=".Linear"/>
+        <activity android:name=".Indelarr"/>
+        <activity android:name=".Mergearr"/>
+        <activity android:name=".Delarr"/>   
+        <activity android:name=".Indismatrix"/>
+        <activity android:name=".Addmatrix"/>
+        <activity android:name=".Multiplymatrix"/>
+        <activity android:name=".Transpose"/>
+    </application>
+
+</manifest>

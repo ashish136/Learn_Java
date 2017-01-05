@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="programmes">  
+      <item name="1" id="1">Print a string </item>
+      <item name="2" id="2" >if example</item>
+      <item name="3" id="3">nestedif example</item>
+      <item name="4" id="4">if else if ladder</item>
+      <item name="5" id="5">Switch case example</item>
+      <item name="6" id="6">for loop example</item>
+      <item name="7" id="7">while loop example</item>
+      <item name="8" id="8">dowhile loop example</item>
+      <item name="9" id="9" >input &amp; display array</item>
+      <item name="10" id="10">sum of array elements</item>
+       <item name="11" id="11" >Delete array element</item>
+      <item name="12" id="12">Merge array</item>
+      <item name="13" id="13">Binary Search</item>
+      <item name="14" id="14">Bubble Sort</item>
+       <item name="15" id="15">Selection sort</item>
+      <item name="16" id="16">Linear search</item>
+      <item name="17" id="17">ASCII to char &amp; char to ASCII</item>
+      <item name="18" id="18">Input &amp; Display Matrix</item>
+       <item name="19" id="19">Add matrix</item>
+      <item name="20" id="20">Multiply Matrix</item>
+      <item name="21" id="21">Transpose</item>
+      </string-array>
+    <string-array name="basicprg">  
+      <item name="1" id="1">Print a string </item>
+      <item name="2" id="2" >if example</item>
+      <item name="3" id="3">nestedif example</item>
+      <item name="4" id="4">if else if ladder</item>
+      <item name="5" id="5">Switch case example</item>
+      <item name="6" id="6">for loop example</item>
+      <item name="7" id="7">while loop example</item>
+      <item name="8" id="8">dowhile loop example</item>
+    </string-array>
+   <string-array name="arrayprg">  
+      <item name="1" id="15" >input &amp; display array</item>
+      <item name="2" id="13">sum of array elements</item>
+      <item name="11" id="11" >Delete array element</item>
+      <item name="12" id="12">Merge array</item>
+      <item name="9" id="9">Binary Search</item>
+      <item name="10" id="10">Bubble Sort</item>
+      <item name="12" id="12">Selection sort</item>
+      <item name="14" id="14">Linear search</item>
+   </string-array>
+   <string-array name="matrixprg">  
+       <item name="18" id="18">Input &amp; Display Matrix</item>
+       <item name="19" id="19">Add matrix</item>
+      <item name="20" id="20">Multiply Matrix</item>
+      <item name="21" id="21">Transpose</item>
+   </string-array>
+   <string-array name="setting">  
+       <item >Input &amp; Display Matrix</item>
+       <item name="19" id="19">Add matrix</item>
+      <item name="20" id="20">Multiply Matrix</item>
+      <item name="21" id="21">Transpose</item>
+   </string-array>
+   <string-array name="arrayprg">  
+      <item name="1" id="15" >Rate me</item>
+      <item name="2" id="13">Report a bug</item>
+      <item name="11" id="11" >Email Me</item>
+      <item name="12" id="12">Tell Your Friend</item>
+      <item name="9" id="9">About Java Basics</item>
+   </string-array>
+   <string-array name="setting">  
+      <item name="1" id="15" >Rate me</item>
+      <item name="2" id="13">Report a bug</item>
+      <item name="11" id="11" >Email Me</item>
+      <item name="12" id="12">Tell Your Friend</item>
+      <item name="9" id="9">About Java Basics</item>
+   </string-array>
+   <string-array name="setting2">  
+      <item name="1" id="15" ></item>
+      <item name="2" id="13">Tell me if any problem is found</item>
+      <item name="11" id="11" >Give your useful suggestions</item>
+      <item name="12" id="12">Share this app with friends</item>
+      <item name="9" id="9"></item>
+   </string-array>
+</resources>
+

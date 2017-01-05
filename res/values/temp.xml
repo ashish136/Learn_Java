@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayprg">  
+      <item name="1" id="15" >input &amp; display array</item>
+      <item name="2" id="13">sum of array elements</item>
+      <item name="11" id="11" >Delete array element</item>
+      <item name="12" id="12">Merge array</item>
+      <item name="9" id="9">Binary Search</item>
+      <item name="10" id="10">Bubble Sort</item>
+      <item name="12" id="12">Selection sort</item>
+      <item name="14" id="14">Linear search</item>
+   </string-array>
+</resources>
